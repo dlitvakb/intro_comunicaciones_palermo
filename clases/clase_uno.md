@@ -26,6 +26,7 @@ Computadora → Modem → Medio Transmicion → Modem → Computadora
 
 * * * Clock agregado
 * * * Clock en cada punto - Relojes Patron
+* * * Clock embebido
 
 * * Asincronicas
 

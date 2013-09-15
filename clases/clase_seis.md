@@ -8,8 +8,8 @@ f(t) × g(t)
 ƛ = c / f
 
 # Por que modular la frecuencia
-Si yo quiero transmitir una onda, necesito modular la frecuencia para
-poder tener una longitud de onda que pueda ser facilmente transmitida
+Si yo quiero transmitir una onda, necesito modular la portadora para colocarle la informacion 
+adentro y ademas desplazar ese espectro para poder tener una longitud de onda que pueda ser facilmente transmitida
 por un transmisor de un tamaño considerable (ver calculo de longitud de onda)
 
 # AM (Amplitud Modulada)
