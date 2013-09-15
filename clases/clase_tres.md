@@ -93,7 +93,7 @@ de la luz.
 * En materia  -> Depende del medio, segun la atenuación que genera el medio
 
 ## Atenuacion
-Una onda electromagnetica no se atenua, pero la energia percibida se reduce a
+Una onda electromagnetica no se atenua(en el vacio), pero la energia percibida se reduce a
 medida que uno se aleja en el espacio (Ejemplo de la esfera)
 
 > Impedancia del vacio: 377Ω

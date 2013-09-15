@@ -35,11 +35,11 @@ Se utiliza la mezcla para utilizar las cosas buenas de cada una
 ### Paquetes
 #### Orientadas a la conexion
 Etiqueto los paquetes e indico que vaya por cierto camino.
-Para hacer una red de circuitos virtuales solo una red de paquetes
+Para hacer una red de circuitos virtuales sobre una red de paquetes
 
-MPLS (Late Switching)
+MPLS (Multiprotocol Label Switching)
 
-#### No orientadas a la conexion
+#### Protocolo Orientado a la conexion
 > Por Ej. TCP
 
 Ayuda a la abstraccion de lo que sucede en la red
