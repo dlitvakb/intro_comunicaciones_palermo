@@ -53,3 +53,10 @@
 * PM
 * Informacion/Canales
 * ASK/FSK/PSK
+
+# Clase Siete
+* Parcial
+
+# Clase Ocho
+* Ruido
+* Señales digitales
